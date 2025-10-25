@@ -4,3 +4,7 @@
 
 [functions]
   node_bundler = "esbuild"
+  external_node_modules = ["node-mailjet"]
+
+[build.environment]
+  NODE_VERSION = "18"
