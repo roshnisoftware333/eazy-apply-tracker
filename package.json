@@ -1,0 +1,12 @@
+{
+  "name": "eazy-apply-tracker",
+  "version": "1.0.0",
+  "description": "Eazy Apply Tracker – Automate job-application emails & track follow-ups effortlessly.",
+  "main": "index.js",
+  "scripts": {
+    "start": "netlify dev"
+  },
+  "dependencies": {
+    "node-mailjet": "^6.0.4"
+  }
+}
